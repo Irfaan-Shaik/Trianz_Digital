@@ -30,3 +30,5 @@ body{background-color: #003049;}
     color: white;
     background-color: orangered;
 }
+.bthp1:hover{color: orangered;
+    background-color: white;}
